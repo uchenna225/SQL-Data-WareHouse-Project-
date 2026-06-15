@@ -21,12 +21,12 @@ This project is licensed under the MIT License.
 
 ## 👤 About Me
 
-I'm **Uchenna**, a self-taught data professional based in **Nigeria**, 
+My name Uchenna, a self-taught data professional based in Nigeria, 
 building expertise across Data Engineering and Data Analytics.
 
 I work across the full data stack — from writing ETL pipelines and 
-transformations in **SQL** and **Python**, to analysing and visualising 
-data in **Excel** and **Power BI**.
+transformations in SQL and Python, to analysing and visualising 
+data in Excel and Power BI.
 
 I focus on writing clean, well-structured code and designing data systems 
 that are easy to understand, maintain, and extend.
