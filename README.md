@@ -8,7 +8,7 @@ A comprehensive end-to-end data warehousing solution, following the Medallion Ar
 This project follows the **Medallion Architecture** with three structured layers:
 
 ### Bronze Layer
-Stores raw data exactly as it comes from the source systems — no transformations applied. Loaded via `BULK INSERT` from CSV files into SQL Server tables.
+Stores raw data exactly as it comes from the source systems with no transformations applied. Loaded via `BULK INSERT` from CSV files into SQL Server tables.
 
 ### Silver Layer
 This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.
