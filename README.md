@@ -16,7 +16,7 @@ This layer includes data cleansing, standardization, and normalization processes
 ### Gold Layer
 This layers contains Business-ready views modelled as a Star Schema
 
-![Data Architecture](Diagrams/Higher Architecture diagram.jpg)
+![Data Architecture](Diagrams/Higher%20Architecture%20diagram.jpg)
 
 ## 📜 License
 This project is licensed under the MIT License.
