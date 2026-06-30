@@ -3,6 +3,14 @@
 ## 📖 Overview
 
 A comprehensive end-to-end data warehousing solution, following the Medallion Architecture (Bronze → Silver → Gold). This project demonstrates industry best practices in data engineering and analytics — from ingesting raw source data all the way through to a business-ready star schema model.
+## 🛠️ Tools & Technologies
+
+| Tool | Purpose |
+|---|---|
+| SQL Server | Core database engine for the data warehouse |
+| T-SQL | Writing DDL, ETL logic, and transformation scripts |
+| draw.io | Designing architecture and data model diagrams |
+| Git & GitHub | Version control and project hosting |
 
 ## 📂 Repository Structure
 
