@@ -21,7 +21,7 @@ This project is licensed under the MIT License.
 
 ## 👤 About Me
 
-My name Uchenna, a self-taught data professional based in Nigeria, 
+My name Uchenna, a data professional based in Nigeria, 
 building expertise across Data Engineering and Data Analytics.
 
 I work across the full data stack — from writing ETL pipelines and 
