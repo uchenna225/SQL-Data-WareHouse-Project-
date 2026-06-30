@@ -2,7 +2,15 @@
 
 ## 📖 Overview
 
-A comprehensive end-to-end data warehousing solution, following the Medallion Architecture (Bronze → Silver → Gold). This project demonstrates industry best practices in data engineering and analytics — from ingesting raw source data all the way through to a business-ready star schema model.
+This project is an end-to-end SQL Server data warehouse built using the **Medallion Architecture** (Bronze → Silver → Gold), designed to take raw, messy source data and turn it into a clean, business-ready star schema for analytics.
+
+It covers the full data engineering lifecycle:
+- **Ingesting** raw CRM and ERP data via `BULK INSERT`
+- **Cleansing and standardizing** data through structured Silver-layer transformations
+- **Modeling** a Gold-layer star schema using SQL views, optimized for analytical querying
+
+The project follows industry-standard practices including layered data architecture, error handling, naming conventions, and documentation — built as a portfolio piece to demonstrate practical data engineering skills.
+
 ## 🛠️ Tools & Technologies
 
 | Tool | Purpose |
